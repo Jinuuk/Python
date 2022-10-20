@@ -1,0 +1,5 @@
+blackboard:칠판
+classroom:교실
+student:학생2
+student3:학생3
+teacher:선생

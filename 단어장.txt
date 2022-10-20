@@ -1,0 +1,4 @@
+student:학생
+teacher:선생님
+classroom:교실
+smart:똑똑한
